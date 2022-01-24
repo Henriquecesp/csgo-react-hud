@@ -1,12 +1,12 @@
 {
-    "name":"Lexogrine HUD",
-    "version":"2.4.0",
-    "author":"Lexogrine",
+    "name": "Coliseum.gg HUD",
+    "version": "1.0.2",
+    "author": "henriquecesp",
     "legacy": false,
     "radar": true,
     "killfeed": true,
-    "boltobserv":{
-        "css":true,
-        "maps":true
+    "boltobserv": {
+        "css": true,
+        "maps": true
     }
 }
